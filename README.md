@@ -13,7 +13,7 @@ Welcome to the Expense Tracker App! This application helps users keep track of t
 
   ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 - Django
 - Virtualenv
 
@@ -26,7 +26,7 @@ Welcome to the Expense Tracker App! This application helps users keep track of t
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS(Tailwind), JavaScript
 - **Graphs**: Chart.js
 - **Backend**: Django, Python
 - **Database**: SQLite (default, can be replaced with PostgreSQL, MySQL, etc.)
